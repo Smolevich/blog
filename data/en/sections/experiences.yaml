@@ -1,0 +1,28 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+# Your experiences
+experiences:
+- company:
+    name: ViTech
+    url: "https://www.vseinstrumenti.ru"
+    location: Remotely
+    logo: /images/sections/experiences/vseinstrumenti.svg
+    # company overview
+    overview: is the leading online retailer in Russia specializing in the "Home and Garden" category.
+  positions:
+  - designation: TeamLead
+    start: Octobeer 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lead a team of 2 developers and 2 QA engineers responsible for the procurement block, planning their activities, training, and oversight.
+    - Developed quarterly OKR goals to meet business objectives.
+    - Participated in code reviews of team members' contributions.
+    - Involved in the hiring process for developers in the procurement automation department.
+    - Communicated with and gathered business feature requirements from procurement stakeholders.
