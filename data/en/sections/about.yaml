@@ -11,3 +11,17 @@ designation: Team Lead
 # your company information
 company:
   name: ViTech
+
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "smolevich90@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/Smolevich"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/stas-shupilkin-59482bb4"  
